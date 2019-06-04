@@ -2,7 +2,7 @@
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
 #DiGantiAuthotGakBakalJadiinLuMaster
-#MikirJanganCopas
+#MikirMakeOtakGblk
 clear
 blue='\033[34;1m'
 green='\033[32;1m'                                        
@@ -17,7 +17,7 @@ toilet -f big -F gay "B4J1N64Nv5"
 echo ""      
 echo "\033[32;1mAuthor : Mr.B4J1N64N Feat Mr.IM81" 
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
-echo "\033[33;1mKontak Me :  085864493084"
+echo "\033[33;1mKontak Me :  083108271123"
 echo "\033[31;1mSubcribe Youtube:"
 echo "\033[33;1mDarkness Cyber Team" "\033[32;1m&" "\033[36;1mIndonesia Security Lite"
 echo "\033[34;1m[============================[>"
